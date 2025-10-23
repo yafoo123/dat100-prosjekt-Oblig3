@@ -16,7 +16,6 @@ public class MonthMain {
         System.out.println("OPPGAVE 2");
         System.out.println("==============");
         System.out.println();
-
         // TODO
 
         //a)
@@ -38,6 +37,6 @@ public class MonthMain {
         //System.out.println(MonthlyPower.computePowerSupport(power_usage_month,power_prices_month));
 
         //g)
-        System.out.println(MonthlyPower.computeNorgesPrice(power_usage_month));
+        //System.out.println(MonthlyPower.computeNorgesPrice(power_usage_month));
     }
 }
